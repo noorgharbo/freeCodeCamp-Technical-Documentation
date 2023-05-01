@@ -72,25 +72,25 @@ body {
     padding: 4rem0;
 }
 
-#main-doc .main-section .main-article {
+#main-doc .main-section {
     padding-left: 1.4rem;
     margin-bottom: .5rem;
     color: #222;
 }
 
-#main-doc .main-section .main article p {
+#main-doc .main-section p {
     margin-bottom: 8px;
 }
   
-#main-doc .main-section .main-article ul {
+#main-doc .main-section ul {
    margin: 1.3rem 0 0 1.2rem;
 }
   
-#main-doc .main-section .main-article ul li {
+#main-doc .main-section ul li {
    margin-bottom: .5rem;
 }
 
-#main-doc .main-section .main-article code {
+#main-doc .main-section code {
     display: block;
     padding: 24px;
     text-align: left;
@@ -106,7 +106,7 @@ section article {
     font-size: 0.96rem;
   }
 
-  #main-doc .main-section:last-child .main-article ul {
+  #main-doc .main-section:last-child ul {
     margin: .5rem 0 1.5rem 3rem;
     padding: 0;
   }
